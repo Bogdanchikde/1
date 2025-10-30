@@ -1,0 +1,9 @@
+src/ConsoleArchiver/
+    Program.cs
+    Models/
+    Services/
+docs/
+screenshots/
+release/
+data/ (.gitignore)
+PRESENTATION/
